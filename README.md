@@ -38,7 +38,8 @@ The project depends on the following tools and libraries:
 - Custom Retrieval Modules: Tailored for extracting relevant information from legal documents in real-time.
 
 
-![process stack](https://github.com/user-attachments/assets/dea97570-1289-4afc-abb1-f57a74fb7103)
+![process stack](https://github.com/user-attachments/assets/111bf9bf-bbbb-4554-9582-f2d289f71770)
+
 
 ## Usage
 
