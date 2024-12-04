@@ -37,6 +37,9 @@ The project depends on the following tools and libraries:
 - Hugging Face Transformers: Provides access to a wide range of pre-trained language models suitable for legal text processing.
 - Custom Retrieval Modules: Tailored for extracting relevant information from legal documents in real-time.
 
+
+![process stack](https://github.com/user-attachments/assets/dea97570-1289-4afc-abb1-f57a74fb7103)
+
 ## Usage
 
 To use the Legal Contract Q&A Bot, follow these steps:
